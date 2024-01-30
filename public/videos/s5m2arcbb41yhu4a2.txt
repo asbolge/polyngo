@@ -1,0 +1,48 @@
+video: s5m2arcbb41yhu4a2.mp4
+true: ben senin için değişiklikler yaptım shrek. Bunu düşün
+false: ben senin için kendimi değiştirdim shrek. Bunu düşün
+movieName: shrek2
+director: Andrew Adamson 
+Producer: DreamWorks
+
+video: v27sibgguc9p3vpa2.mp4
+true: Sadece uyarmak istiyorum seni. O biraz..ee, farklı.
+false: Sadece uarmak istiyorum seni. O biraz..ee, çılgın.
+movieName: Mickey's Twice Upon a Christmas
+director: Carole Holiday
+Producer: Walt Disney Pictures
+
+video: 17mb06md29h18m23.mp4
+true: Onları umursayan kimseler yok.
+false: Onlar kimseyi umursamıyor.
+movieName: A Cure for Wellness
+director: Gore Verbinski
+Producer: Regency Enterprises
+
+video: ip5h3cgdsbk3699a2.mp4
+true: Şimdi hatırla Pinokyo, iyi bir çocuk ol. Ve vicdanının daima rehberin olmasına izin ver.
+false: Şimdi çalış Pinokyo, iyi bir çocuk ol. Ve vicdanının daima rehberin olmasına izin ver.
+movieName: Pinocchio
+director: Norman Ferguson
+Producer: Walt Disney Productions
+
+video: 17tt11pk15jk1n16.mp4
+true: Sakın aptalca bir şey yapma.
+false: Sakın kahramanca bir şey yapma.
+movieName: The Twilight Saga
+director: Chirs Weitz
+Producer: Temple Hill Entertainment
+
+video: 26yu9zy15k2zz16.mp4
+true: Biz, gezegendeki en büyük kuşlarız ancak, çoğu kuşun aksine uçamıyoruz. 
+false: Biz, gezegendeki en büyük kuşlarız ancak, bildiğiniz gibi; uçamıyoruz. 
+movieName: I'm An Ostrich
+director: "-"
+Producer: "-"
+
+video: ypmiul5c8psnpzpa2.mp4
+true: Kaç Simba, koş. Kaç ve asla geri dönme.
+false: Koş Simba, koş. Koş ve aska pes etme.
+movieName: The Lion King
+director: Roger Allers
+Producer: Walt Disney Pictures
